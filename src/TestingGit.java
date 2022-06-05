@@ -2,7 +2,9 @@
 public class TestingGit {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		
+		System.out.println(" making changes here first and THEN checking if it reflects in git log command");
 
 	}
 
